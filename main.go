@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	mathutil "jieyuc.cn/jieyuc-utils-math"
+	mathutil "github.com/jieyu-c/jieyuc-go-util/mathutil"
 )
 
 func main() {
